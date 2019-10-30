@@ -1,0 +1,14 @@
+{
+  "name": "kinesalite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:monosolutions/kinesalite.git",
+  "author": "Mono Solutions",
+  "license": "MIT",
+  "scripts": {
+    "start": "kinesalite"
+  },
+  "dependencies": {
+    "kinesalite": "^3.1.0"
+  }
+}
